@@ -1,11 +1,11 @@
 from django.contrib.auth.models import AbstractUser
-from django.db import models
+from django.db import models     # type: ignore
 
 NULLABLE = {"blank": True, "null": True}
 
 
 class User(AbstractUser):
-    """ Модель пользователя."""
+    """Модель пользователя."""
 
     username = None
     email = models.EmailField(unique=True, verbose_name="Почта")
@@ -21,4 +21,3 @@ class User(AbstractUser):
     class Meta:
         verbose_name = "Пользователь"
         verbose_name_plural = "Пользователи"
-

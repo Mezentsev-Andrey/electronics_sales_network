@@ -6,13 +6,22 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('network', '0001_initial'),
+        ("network", "0001_initial"),
     ]
 
     operations = [
         migrations.AlterField(
-            model_name='networknode',
-            name='type',
-            field=models.CharField(choices=[('factory', 'завод'), ('retail', 'розничная сеть'), ('seller', 'индивидуальный предприниматель')], default='factory', max_length=7, verbose_name='Тип продавца'),
+            model_name="networknode",
+            name="type",
+            field=models.CharField(
+                choices=[
+                    ("factory", "завод"),
+                    ("retail", "розничная сеть"),
+                    ("seller", "индивидуальный предприниматель"),
+                ],
+                default="factory",
+                max_length=7,
+                verbose_name="Тип продавца",
+            ),
         ),
     ]

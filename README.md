@@ -57,7 +57,7 @@
 
 6. Запуск приложения:
     - Заполнение базы данных произведено в админке. Загруженные данные представлены по адресу: network/fixtures/all_data.json, network/fixtures/network_data.json; users/fixtures/users_data.json. Для их загрузки в базу данных проекта воспользуйтесь командой: `python manage.py loaddatautf8 network_data.json`
-    - Для выгрузки данных из базы данных проекта используйте команду: `python manage.py dumpdatautf8 network --output network/fixtures/modules_data.json` (в данном примере команды приведена выгрузка всех данных из приложения network.)
+    - Для выгрузки данных из базы данных проекта используйте команду: `python manage.py dumpdatautf8 network --output network/fixtures/network_data.json` (в данном примере команды приведена выгрузка всех данных из приложения network.)
     - Создать суперпользователя кастомной командой `python manage.py csu`.
 
 7. Виды запросов в Postman: 

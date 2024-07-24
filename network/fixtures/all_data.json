@@ -1,0 +1,1619 @@
+[
+  {
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+      "action_time": "2024-07-20T19:33:52.542Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "1",
+      "object_repr": "iPhone 14 Pro A2894",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+      "action_time": "2024-07-20T19:34:39.827Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "2",
+      "object_repr": "Samsung Galaxy S23 SM-S918B",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+      "action_time": "2024-07-20T19:35:19.396Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "3",
+      "object_repr": "MacBook Air (M2, 2022) A2681",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+      "action_time": "2024-07-20T19:35:58.964Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "4",
+      "object_repr": "Dell XPS 13 9315",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+      "action_time": "2024-07-20T19:36:35.591Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "5",
+      "object_repr": "iPad Pro A2766",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+      "action_time": "2024-07-20T19:37:11.673Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "6",
+      "object_repr": "Samsung Galaxy Tab S8 SM-X706",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+      "action_time": "2024-07-20T19:41:57.800Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Apple Inc. 0",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+      "action_time": "2024-07-20T19:42:25.198Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Apple Inc. 0.11",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u0430\\u0434\\u043e\\u043b\\u0436\\u0435\\u043d\\u043d\\u043e\\u0441\\u0442\\u044c \\u043f\\u0435\\u0440\\u0435\\u0434 \\u043f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\\u043e\\u043c\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+      "action_time": "2024-07-20T19:52:28.683Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "МВидео 0",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+      "action_time": "2024-07-20T19:52:59.765Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Apple Inc. 0.00",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+      "action_time": "2024-07-20T19:53:24.574Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Apple Inc. 0.02",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\", \"\\u0417\\u0430\\u0434\\u043e\\u043b\\u0436\\u0435\\u043d\\u043d\\u043e\\u0441\\u0442\\u044c \\u043f\\u0435\\u0440\\u0435\\u0434 \\u043f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\\u043e\\u043c\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+      "action_time": "2024-07-20T19:53:36.512Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "МВидео 0.02",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u0430\\u0434\\u043e\\u043b\\u0436\\u0435\\u043d\\u043d\\u043e\\u0441\\u0442\\u044c \\u043f\\u0435\\u0440\\u0435\\u0434 \\u043f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\\u043e\\u043c\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+      "action_time": "2024-07-22T08:20:04.136Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Apple Inc. 0.05",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u0430\\u0434\\u043e\\u043b\\u0436\\u0435\\u043d\\u043d\\u043e\\u0441\\u0442\\u044c \\u043f\\u0435\\u0440\\u0435\\u0434 \\u043f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\\u043e\\u043c\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+      "action_time": "2024-07-22T08:23:26.620Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Apple Inc. 0.00",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+      "action_time": "2024-07-22T08:30:06.375Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Apple Inc. 0.1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u0430\\u0434\\u043e\\u043b\\u0436\\u0435\\u043d\\u043d\\u043e\\u0441\\u0442\\u044c \\u043f\\u0435\\u0440\\u0435\\u0434 \\u043f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\\u043e\\u043c\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+      "action_time": "2024-07-23T18:46:32.675Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "МВидео 0.00",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+      "action_time": "2024-07-23T18:46:53.737Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "МВидео 0.00",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+      "action_time": "2024-07-23T18:47:05.511Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "МВидео 0.00",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+      "action_time": "2024-07-23T18:57:46.112Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "ИП Петров А.В. 0",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+      "action_time": "2024-07-23T18:58:03.146Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Apple Inc. 0.10",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+      "action_time": "2024-07-23T18:58:32.148Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "МВидео 0.00",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+      "action_time": "2024-07-24T11:32:34.132Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "ИП Петров А.В. 0.00",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0421\\u0442\\u0440\\u0430\\u043d\\u0430\", \"\\u0413\\u043e\\u0440\\u043e\\u0434\", \"\\u0423\\u043b\\u0438\\u0446\\u0430\", \"\\u041d\\u043e\\u043c\\u0435\\u0440 \\u0434\\u043e\\u043c\\u0430\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+      "action_time": "2024-07-24T11:33:07.399Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "ИП Петров А.В. 0.00",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0423\\u043b\\u0438\\u0446\\u0430\", \"\\u041d\\u043e\\u043c\\u0435\\u0440 \\u0434\\u043e\\u043c\\u0430\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+      "action_time": "2024-07-24T17:48:07.797Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "7",
+      "object_repr": "Xiaomi 13 Pro A235",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+      "action_time": "2024-07-24T17:49:22.403Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "8",
+      "object_repr": "Xiaomi Mi Notebook Pro X 15 23456-AP",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+      "action_time": "2024-07-24T17:49:44.616Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "7",
+      "object_repr": "Xiaomi 13 Pro A2354",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041c\\u043e\\u0434\\u0435\\u043b\\u044c\", \"\\u0414\\u0430\\u0442\\u0430 \\u0432\\u044b\\u0445\\u043e\\u0434\\u0430 \\u043f\\u0440\\u043e\\u0434\\u0443\\u043a\\u0442\\u0430 \\u043d\\u0430 \\u0440\\u044b\\u043d\\u043e\\u043a\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+      "action_time": "2024-07-24T17:50:37.839Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "9",
+      "object_repr": "Xiaomi Pad 5 Pro P2305-17",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+      "action_time": "2024-07-24T17:51:39.767Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "10",
+      "object_repr": "Xiaomi Mi Watch Lite WL-2567",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+      "action_time": "2024-07-24T17:52:39.765Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "11",
+      "object_repr": "Xiaomi Mi Robot Vacuum-Mop P",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+      "action_time": "2024-07-24T17:58:36.023Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "4",
+      "object_repr": "Xiaomi Corporation 0",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+      "action_time": "2024-07-24T18:28:15.367Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "5",
+      "object_repr": "Samsung Electronics America 0",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+      "action_time": "2024-07-24T18:29:40.569Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "12",
+      "object_repr": "Samsung Galaxy Watch 5 Pro SMG-2567",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+      "action_time": "2024-07-24T18:31:37.542Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "13",
+      "object_repr": "Samsung Galaxy Buds 2 Pro WTCH-5643",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+      "action_time": "2024-07-24T18:32:48.166Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "14",
+      "object_repr": "Samsung Galaxy Book Pro 360",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+      "action_time": "2024-07-24T18:34:56.331Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "5",
+      "object_repr": "Samsung Electronics America 0.00",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u0440\\u043e\\u0434\\u0443\\u043a\\u0442\\u044b\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+      "action_time": "2024-07-24T18:41:41.368Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "6",
+      "object_repr": "Ситилинк 0",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+      "action_time": "2024-07-24T18:44:35.914Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "7",
+      "object_repr": "ИП Иванов И.И. 0",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+      "action_time": "2024-07-24T18:45:05.798Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "7",
+      "object_repr": "ИП Иванов И.И. 0.00",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u0440\\u043e\\u0434\\u0443\\u043a\\u0442\\u044b\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+      "action_time": "2024-07-24T18:45:41.678Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "7",
+      "object_repr": "ИП Иванов И.И. 0.00",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0413\\u043e\\u0440\\u043e\\u0434\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+      "action_time": "2024-07-24T18:48:23.216Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "8",
+      "object_repr": "ИП Васильев И.Н. 0",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+      "action_time": "2024-07-24T18:49:27.162Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "8",
+      "object_repr": "ИП Васильев И.Н. 0.00",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\", \"\\u041f\\u0440\\u043e\\u0434\\u0443\\u043a\\u0442\\u044b\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+      "action_time": "2024-07-24T18:54:58.712Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "4",
+      "object_repr": "Lenovo ThinkPad X1 Carbon",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041d\\u0430\\u0437\\u0432\\u0430\\u043d\\u0438\\u0435\", \"\\u041c\\u043e\\u0434\\u0435\\u043b\\u044c\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+      "action_time": "2024-07-24T18:55:55.863Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "15",
+      "object_repr": "Lenovo IdeaPad Flex 5 None",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+      "action_time": "2024-07-24T18:57:56.626Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "16",
+      "object_repr": "Lenovo Tab P12 Pro None",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+      "action_time": "2024-07-24T18:59:31.577Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "17",
+      "object_repr": "Lenovo Legion Phone Duel 2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+      "action_time": "2024-07-24T19:02:49.598Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "18",
+      "object_repr": "Apple Watch Series 8 None",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+      "action_time": "2024-07-24T19:03:35.977Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "19",
+      "object_repr": "AirPods Pro None",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+      "action_time": "2024-07-24T19:06:30.283Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "20",
+      "object_repr": "MacBook Air M1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+      "action_time": "2024-07-24T19:07:18.154Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Apple Inc. 0.00",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u0440\\u043e\\u0434\\u0443\\u043a\\u0442\\u044b\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+      "action_time": "2024-07-24T19:08:13.784Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "ИП Петров А.В. 0.00",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u0440\\u043e\\u0434\\u0443\\u043a\\u0442\\u044b\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+      "action_time": "2024-07-24T19:08:58.998Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Apple Inc. 0.00",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0413\\u043e\\u0440\\u043e\\u0434\", \"\\u041d\\u043e\\u043c\\u0435\\u0440 \\u0434\\u043e\\u043c\\u0430\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+      "action_time": "2024-07-24T19:14:51.986Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "9",
+      "object_repr": "Эльдорадо 0",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+      "action_time": "2024-07-24T19:21:51.698Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "10",
+      "object_repr": "Lenovo (Beijing) Co., Ltd. 0",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+      "action_time": "2024-07-24T19:23:01.164Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "9",
+      "object_repr": "Эльдорадо 0.00",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\", \"\\u041f\\u0440\\u043e\\u0434\\u0443\\u043a\\u0442\\u044b\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+      "action_time": "2024-07-24T19:24:31.078Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Apple Inc. 0.00",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0413\\u043e\\u0440\\u043e\\u0434\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 56,
+    "fields": {
+      "action_time": "2024-07-24T19:29:48.747Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "11",
+      "object_repr": "PoiskHome 0",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 57,
+    "fields": {
+      "action_time": "2024-07-24T19:30:13.996Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "10",
+      "object_repr": "Lenovo Co., Ltd. 0.00",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041d\\u0430\\u0437\\u0432\\u0430\\u043d\\u0438\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 58,
+    "fields": {
+      "action_time": "2024-07-24T19:53:59.326Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "12",
+      "object_repr": "ИП Сидоров С.С. 0",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 59,
+    "fields": {
+      "action_time": "2024-07-24T20:21:05.083Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "ИП Петров А.В. 0.05",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u0430\\u0434\\u043e\\u043b\\u0436\\u0435\\u043d\\u043d\\u043e\\u0441\\u0442\\u044c \\u043f\\u0435\\u0440\\u0435\\u0434 \\u043f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\\u043e\\u043c\"]}}]"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+      "name": "Can add log entry",
+      "content_type": 1,
+      "codename": "add_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+      "name": "Can change log entry",
+      "content_type": 1,
+      "codename": "change_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+      "name": "Can delete log entry",
+      "content_type": 1,
+      "codename": "delete_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+      "name": "Can view log entry",
+      "content_type": 1,
+      "codename": "view_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+      "name": "Can add permission",
+      "content_type": 2,
+      "codename": "add_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+      "name": "Can change permission",
+      "content_type": 2,
+      "codename": "change_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+      "name": "Can delete permission",
+      "content_type": 2,
+      "codename": "delete_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+      "name": "Can view permission",
+      "content_type": 2,
+      "codename": "view_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+      "name": "Can add group",
+      "content_type": 3,
+      "codename": "add_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+      "name": "Can change group",
+      "content_type": 3,
+      "codename": "change_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+      "name": "Can delete group",
+      "content_type": 3,
+      "codename": "delete_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+      "name": "Can view group",
+      "content_type": 3,
+      "codename": "view_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+      "name": "Can add content type",
+      "content_type": 4,
+      "codename": "add_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+      "name": "Can change content type",
+      "content_type": 4,
+      "codename": "change_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+      "name": "Can delete content type",
+      "content_type": 4,
+      "codename": "delete_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+      "name": "Can view content type",
+      "content_type": 4,
+      "codename": "view_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+      "name": "Can add session",
+      "content_type": 5,
+      "codename": "add_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+      "name": "Can change session",
+      "content_type": 5,
+      "codename": "change_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+      "name": "Can delete session",
+      "content_type": 5,
+      "codename": "delete_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+      "name": "Can view session",
+      "content_type": 5,
+      "codename": "view_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+      "name": "Can add Продукт",
+      "content_type": 6,
+      "codename": "add_product"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+      "name": "Can change Продукт",
+      "content_type": 6,
+      "codename": "change_product"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+      "name": "Can delete Продукт",
+      "content_type": 6,
+      "codename": "delete_product"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+      "name": "Can view Продукт",
+      "content_type": 6,
+      "codename": "view_product"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+      "name": "Can add Звено",
+      "content_type": 7,
+      "codename": "add_networknode"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+      "name": "Can change Звено",
+      "content_type": 7,
+      "codename": "change_networknode"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+      "name": "Can delete Звено",
+      "content_type": 7,
+      "codename": "delete_networknode"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+      "name": "Can view Звено",
+      "content_type": 7,
+      "codename": "view_networknode"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+      "name": "Can add Пользователь",
+      "content_type": 8,
+      "codename": "add_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+      "name": "Can change Пользователь",
+      "content_type": 8,
+      "codename": "change_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+      "name": "Can delete Пользователь",
+      "content_type": 8,
+      "codename": "delete_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+      "name": "Can view Пользователь",
+      "content_type": 8,
+      "codename": "view_user"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+      "app_label": "admin",
+      "model": "logentry"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+      "app_label": "auth",
+      "model": "permission"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+      "app_label": "auth",
+      "model": "group"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+      "app_label": "contenttypes",
+      "model": "contenttype"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+      "app_label": "sessions",
+      "model": "session"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+      "app_label": "network",
+      "model": "product"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+      "app_label": "network",
+      "model": "networknode"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+      "app_label": "users",
+      "model": "user"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "8g68y8wtz0e3gq4av843h7gr1stjeqhq",
+    "fields": {
+      "session_data": ".eJxVjEEOwiAQAP_C2RDKQlg8evcNZIFFqoYmpT0Z_64kPeh1ZjIvEWjfatg7r2HO4iwmcfplkdKD2xD5Tu22yLS0bZ2jHIk8bJfXJfPzcrR_g0q9ji0qtC5qZYkd-wixIOuEjg14xpJBT1CQsvNgv5yzQrRYQKNlQ0a8P9ncN5U:1sVFix:WhgBRsJejRi5RNUsT2gKtfo_mi4LmUkbxeEe4stgWJ4",
+      "expire_date": "2024-08-03T19:26:31.896Z"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 1,
+    "fields": {
+      "title": "iPhone 14 Pro",
+      "model": "A2894",
+      "release_date": "2022-07-03"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 2,
+    "fields": {
+      "title": "Samsung Galaxy S23",
+      "model": "SM-S918B",
+      "release_date": "2023-09-05"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 3,
+    "fields": {
+      "title": "MacBook Air (M2, 2022)",
+      "model": "A2681",
+      "release_date": "2022-07-15"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 4,
+    "fields": {
+      "title": "Lenovo ThinkPad",
+      "model": "X1 Carbon",
+      "release_date": "2023-01-20"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 5,
+    "fields": {
+      "title": "iPad Pro",
+      "model": "A2766",
+      "release_date": "2022-10-16"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 6,
+    "fields": {
+      "title": "Samsung Galaxy Tab S8",
+      "model": "SM-X706",
+      "release_date": "2022-07-09"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 7,
+    "fields": {
+      "title": "Xiaomi 13 Pro",
+      "model": "A2354",
+      "release_date": "2023-07-24"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 8,
+    "fields": {
+      "title": "Xiaomi Mi Notebook Pro X 15",
+      "model": "23456-AP",
+      "release_date": "2023-07-01"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 9,
+    "fields": {
+      "title": "Xiaomi Pad 5 Pro",
+      "model": "P2305-17",
+      "release_date": "2023-05-02"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 10,
+    "fields": {
+      "title": "Xiaomi Mi Watch Lite",
+      "model": "WL-2567",
+      "release_date": "2024-03-01"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 11,
+    "fields": {
+      "title": "Xiaomi Mi Robot",
+      "model": "Vacuum-Mop P",
+      "release_date": "2024-02-01"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 12,
+    "fields": {
+      "title": "Samsung Galaxy Watch 5 Pro",
+      "model": "SMG-2567",
+      "release_date": "2024-02-01"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 13,
+    "fields": {
+      "title": "Samsung Galaxy Buds 2 Pro",
+      "model": "WTCH-5643",
+      "release_date": "2023-10-02"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 14,
+    "fields": {
+      "title": "Samsung Galaxy Book Pro",
+      "model": "360",
+      "release_date": "2023-02-01"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 15,
+    "fields": {
+      "title": "Lenovo IdeaPad Flex 5",
+      "model": null,
+      "release_date": "2024-04-01"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 16,
+    "fields": {
+      "title": "Lenovo Tab P12 Pro",
+      "model": null,
+      "release_date": "2024-01-08"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 17,
+    "fields": {
+      "title": "Lenovo Legion Phone",
+      "model": "Duel 2",
+      "release_date": "2023-11-29"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 18,
+    "fields": {
+      "title": "Apple Watch Series 8",
+      "model": null,
+      "release_date": "2024-01-15"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 19,
+    "fields": {
+      "title": "AirPods Pro",
+      "model": null,
+      "release_date": "2023-12-01"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 20,
+    "fields": {
+      "title": "MacBook Air",
+      "model": "M1",
+      "release_date": "2024-02-01"
+    }
+  },
+  {
+    "model": "network.networknode",
+    "pk": 1,
+    "fields": {
+      "title": "Apple Inc.",
+      "email": "info@apple.com",
+      "country": "США",
+      "city": "Купертино",
+      "street": "One Apple Park Way",
+      "house": 11,
+      "type": "factory",
+      "time": "2024-07-20T19:37:17Z",
+      "supplier": null,
+      "debt": "0.00",
+      "products": [
+        19,
+        18,
+        5,
+        1,
+        20,
+        3
+      ]
+    }
+  },
+  {
+    "model": "network.networknode",
+    "pk": 2,
+    "fields": {
+      "title": "МВидео",
+      "email": "24@mvideo.ru",
+      "country": "Россия",
+      "city": "Москва",
+      "street": "Нижняя Красносельская",
+      "house": 40,
+      "type": "retail",
+      "time": "2024-07-20T19:49:30Z",
+      "supplier": 1,
+      "debt": "0.00",
+      "products": [
+        5,
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "model": "network.networknode",
+    "pk": 3,
+    "fields": {
+      "title": "ИП Петров А.В.",
+      "email": "petrov@mail.ru",
+      "country": "Россия",
+      "city": "Краснодар",
+      "street": "Молодёжная",
+      "house": 25,
+      "type": "seller",
+      "time": "2024-07-23T18:55:43Z",
+      "supplier": 1,
+      "debt": "0.00",
+      "products": [
+        19,
+        18,
+        5,
+        1,
+        20,
+        3
+      ]
+    }
+  },
+  {
+    "model": "network.networknode",
+    "pk": 4,
+    "fields": {
+      "title": "Xiaomi Corporation",
+      "email": "service.global@xiaomi.com",
+      "country": "Китай",
+      "city": "Пекин",
+      "street": "район Хайдянь, Миддл стрит Цинхэ",
+      "house": 68,
+      "type": "factory",
+      "time": "2024-07-24T17:54:42Z",
+      "supplier": null,
+      "debt": "0.00",
+      "products": [
+        7,
+        8,
+        11,
+        10,
+        9
+      ]
+    }
+  },
+  {
+    "model": "network.networknode",
+    "pk": 5,
+    "fields": {
+      "title": "Samsung Electronics America",
+      "email": "info@samsung.com",
+      "country": "США",
+      "city": "Нью Джерси",
+      "street": "Челленджер Роад",
+      "house": 85,
+      "type": "factory",
+      "time": "2024-07-24T18:09:48Z",
+      "supplier": null,
+      "debt": "0.00",
+      "products": [
+        14,
+        13,
+        2,
+        6,
+        12
+      ]
+    }
+  },
+  {
+    "model": "network.networknode",
+    "pk": 6,
+    "fields": {
+      "title": "Ситилинк",
+      "email": "Zapros_KRDb2b@citilink.ru",
+      "country": "Россия",
+      "city": "Москва",
+      "street": "Щелковское шоссе",
+      "house": 7,
+      "type": "retail",
+      "time": "2024-07-24T18:35:50Z",
+      "supplier": 4,
+      "debt": "0.00",
+      "products": [
+        7,
+        8,
+        11,
+        10,
+        9
+      ]
+    }
+  },
+  {
+    "model": "network.networknode",
+    "pk": 7,
+    "fields": {
+      "title": "ИП Иванов И.И.",
+      "email": "ivan.ivanov@yandex.ru",
+      "country": "Россия",
+      "city": "Новороссийск",
+      "street": "Советов",
+      "house": 23,
+      "type": "seller",
+      "time": "2024-07-24T18:42:33Z",
+      "supplier": 6,
+      "debt": "0.00",
+      "products": [
+        7,
+        8,
+        11,
+        10,
+        9
+      ]
+    }
+  },
+  {
+    "model": "network.networknode",
+    "pk": 8,
+    "fields": {
+      "title": "ИП Васильев И.Н.",
+      "email": "vasilyev@gmail.com",
+      "country": "Белоруссия",
+      "city": "Минск",
+      "street": "Ленина",
+      "house": 21,
+      "type": "seller",
+      "time": "2024-07-24T18:46:16Z",
+      "supplier": 2,
+      "debt": "0.00",
+      "products": [
+        5,
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "model": "network.networknode",
+    "pk": 9,
+    "fields": {
+      "title": "Эльдорадо",
+      "email": "customer@eldorado.ru",
+      "country": "Россия",
+      "city": "Москва",
+      "street": "Нижняя Красносельская",
+      "house": 40,
+      "type": "retail",
+      "time": "2024-07-24T19:10:54Z",
+      "supplier": 3,
+      "debt": "0.00",
+      "products": [
+        19,
+        18,
+        5,
+        1
+      ]
+    }
+  },
+  {
+    "model": "network.networknode",
+    "pk": 10,
+    "fields": {
+      "title": "Lenovo Co., Ltd.",
+      "email": "ru_customers@lenovo.com",
+      "country": "Китай",
+      "city": "Пекин",
+      "street": "район Хайдянь, Чуанджи Роад",
+      "house": 6,
+      "type": "factory",
+      "time": "2024-07-24T19:16:47Z",
+      "supplier": null,
+      "debt": "0.00",
+      "products": [
+        15,
+        17,
+        16,
+        4
+      ]
+    }
+  },
+  {
+    "model": "network.networknode",
+    "pk": 11,
+    "fields": {
+      "title": "PoiskHome",
+      "email": "info@poiskhome.ru",
+      "country": "Россия",
+      "city": "Ростов-на-Дону",
+      "street": "50 лет Ростсельмаша",
+      "house": 1,
+      "type": "retail",
+      "time": "2024-07-24T19:26:51Z",
+      "supplier": 10,
+      "debt": "0.00",
+      "products": [
+        15,
+        17,
+        16,
+        4
+      ]
+    }
+  },
+  {
+    "model": "network.networknode",
+    "pk": 12,
+    "fields": {
+      "title": "ИП Сидоров С.С.",
+      "email": "sergey.sidorov@mail.ru",
+      "country": "Россия",
+      "city": "Таганрог",
+      "street": "Петровская",
+      "house": 55,
+      "type": "seller",
+      "time": "2024-07-24T19:31:29Z",
+      "supplier": 11,
+      "debt": "0.00",
+      "products": [
+        15,
+        17,
+        16,
+        4
+      ]
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$IDvjxEa4zk6ijUlyybuYml$+6ElyjrIojZN2SadzX17hiJrT3qnKmI8Qm8G8oqELR4=",
+      "last_login": "2024-07-20T19:26:31.892Z",
+      "is_superuser": true,
+      "first_name": "Admin",
+      "last_name": "SkyPro",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2024-07-20T19:26:01.932Z",
+      "email": "mezentsew@mail.ru",
+      "avatar": "",
+      "phone_number": null,
+      "city": null,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$MMUzJsANgF9wkkS6LMmEYV$AyC4eI59Qgoob7AdW2IMpfKCQcvk0UTHLCR7R8k8smg=",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-07-24T20:15:07.663Z",
+      "email": "novorossiec2018@mail.ru",
+      "avatar": "",
+      "phone_number": null,
+      "city": null,
+      "groups": [],
+      "user_permissions": []
+    }
+  }
+]

@@ -23,7 +23,7 @@
 ## Технологии
 
 - Python;
-- Django (Django Rest Framework, Celery);
+- Django (Django REST Framework, Celery);
 - PostgreSQL (БД для хранения данных);
 - Docker.
 

@@ -1,0 +1,42 @@
+[
+  {
+    "model": "users.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$IDvjxEa4zk6ijUlyybuYml$+6ElyjrIojZN2SadzX17hiJrT3qnKmI8Qm8G8oqELR4=",
+      "last_login": "2024-07-20T19:26:31.892Z",
+      "is_superuser": true,
+      "first_name": "Admin",
+      "last_name": "SkyPro",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2024-07-20T19:26:01.932Z",
+      "email": "mezentsew@mail.ru",
+      "avatar": "",
+      "phone_number": null,
+      "city": null,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$MMUzJsANgF9wkkS6LMmEYV$AyC4eI59Qgoob7AdW2IMpfKCQcvk0UTHLCR7R8k8smg=",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-07-24T20:15:07.663Z",
+      "email": "novorossiec2018@mail.ru",
+      "avatar": "",
+      "phone_number": null,
+      "city": null,
+      "groups": [],
+      "user_permissions": []
+    }
+  }
+]
